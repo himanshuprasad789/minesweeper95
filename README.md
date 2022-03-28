@@ -1,4 +1,4 @@
-[# minesweeper95](https://minesweeper95-him.netlify.app/)
+# minesweeper95
 [link to the website](https://minesweeper95-him.netlify.app/)
 I developed this minesweeper game to revise concepts of react specifically hooks and functional components.
 Also I wanted try this windows95 based UI component library for this classis game.
